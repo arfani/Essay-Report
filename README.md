@@ -4,10 +4,10 @@
   <li>Halaman Judul dan Lembar Pengesahan :
     <ul>
       <li>
-        <a href="https://drive.google.com/open?id=1mqn7sCmbJRYoDGJB0WhyBDRvewvv7Yqj">Halaman Sampul</a> || Selesai [ ]
+        <a href="https://drive.google.com/open?id=1mqn7sCmbJRYoDGJB0WhyBDRvewvv7Yqj">Halaman Sampul</a> || Selesai - [ ]
       </li>
       <li>
-        <a href="https://drive.google.com/open?id=18IlwYevN4n5EYvYgdpwRprckna1UyHPe">Halaman Judul</a> || Selesai [x]
+        <a href="https://drive.google.com/open?id=18IlwYevN4n5EYvYgdpwRprckna1UyHPe">Halaman Judul</a> || Selesai - [x]
       </li>
       <li>
         <a href="https://drive.google.com/open?id=1RwyYWnxvagO52s4xrGmrDnSEl4nmQkwP">Lembar Pengesahan Ketua</a> || Selesai<input type="checkbox" checked disabled>
