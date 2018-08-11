@@ -1,5 +1,5 @@
 # LAPORAN SKRIPSI
-1. - Halaman Judul dan Lembar Pengesahan :
+1. Halaman Judul dan Lembar Pengesahan :
     - [x] [Halaman Sampul](https://drive.google.com/open?id=1mqn7sCmbJRYoDGJB0WhyBDRvewvv7Yqj)
     - [x] [Halaman Judul](https://drive.google.com/open?id=18IlwYevN4n5EYvYgdpwRprckna1UyHPe)
     - [x] [Lembar Pengesahan Ketua](https://drive.google.com/open?id=1RwyYWnxvagO52s4xrGmrDnSEl4nmQkwP)
@@ -13,7 +13,7 @@
 6. - [ ] [Daftar Gambar](#)
 7. - [ ] [Daftar Tabel](#)
 8. - [ ] [Daftar Lampiran](#)
-9. * Batang Tubuh Skripsi :
+9. Batang Tubuh Skripsi :
     - [x] [BAB I](https://drive.google.com/open?id=12usvWrShbKbCCmshU-8i6SiitqWsAEN9)
     - [x] [BAB II](https://drive.google.com/open?id=1ChnvpM9M84Uiogh3IcCqaSGdW3MNOFK8)
     - [x] [BAB III](https://drive.google.com/open?id=1P4WRHza7GB8tDTfek1Awz6nlRBU7YmX-)
