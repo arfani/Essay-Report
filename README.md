@@ -1,5 +1,8 @@
 <h1>LAPORAN SKRIPSI</h1>
 
+- [ ] test
+- [x] test lagi
+
 <ol style="line-height: 25px;">
   <li>Halaman Judul dan Lembar Pengesahan :
     <ul>
