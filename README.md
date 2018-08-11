@@ -7,7 +7,7 @@
   <li>Halaman Judul dan Lembar Pengesahan :
     <ul>
       <li>
-        <a href="https://drive.google.com/open?id=1mqn7sCmbJRYoDGJB0WhyBDRvewvv7Yqj">Halaman Sampul</a> || Selesai - [ ]
+        <a href="https://drive.google.com/open?id=1mqn7sCmbJRYoDGJB0WhyBDRvewvv7Yqj">Halaman Sampul</a> || - [ ] Selesai 
       </li>
       <li>
         <a href="https://drive.google.com/open?id=18IlwYevN4n5EYvYgdpwRprckna1UyHPe">Halaman Judul</a> || Selesai - [x]
