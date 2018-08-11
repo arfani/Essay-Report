@@ -4,7 +4,7 @@
   <li>Halaman Judul dan Lembar Pengesahan :
     <ul>
       <li>
-        <a href="https://drive.google.com/open?id=1mqn7sCmbJRYoDGJB0WhyBDRvewvv7Yqj">Halaman Sampul</a> || Selesai<input type="checkbox" checked disabled>
+        <a href="https://drive.google.com/open?id=1mqn7sCmbJRYoDGJB0WhyBDRvewvv7Yqj">Halaman Sampul</a> || Selesai<input type="checkbox" checked >
       </li>
       <li>
         <a href="https://drive.google.com/open?id=18IlwYevN4n5EYvYgdpwRprckna1UyHPe">Halaman Judul</a> || Selesai<input type="checkbox" checked disabled>
