@@ -1,13 +1,13 @@
 <h1>LAPORAN SKRIPSI</h1>
 
-- [ ] test
+- [ ] <a href="https://drive.google.com/open?id=1mqn7sCmbJRYoDGJB0WhyBDRvewvv7Yqj">Halaman Sampul</a>
 - [x] test lagi
 
 <ol style="line-height: 25px;">
   <li>Halaman Judul dan Lembar Pengesahan :
     <ul>
       <li>
-        <a href="https://drive.google.com/open?id=1mqn7sCmbJRYoDGJB0WhyBDRvewvv7Yqj">Halaman Sampul</a> || - [ ] Selesai 
+         || - [ ] Selesai
       </li>
       <li>
         <a href="https://drive.google.com/open?id=18IlwYevN4n5EYvYgdpwRprckna1UyHPe">Halaman Judul</a> || Selesai - [x]
