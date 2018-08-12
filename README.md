@@ -9,9 +9,9 @@
 2. - [x] [Kata Pengantar](https://drive.google.com/open?id=1YNrQIBE6vsfLLE3r5rLaTgjrILfceual)
 3. - [x] [Surat Pernyataan Publikasi dan Originalitas](https://drive.google.com/open?id=1ljio-azvZy4ECgARQwWYc-bcrkbsYZAa)
 4. - [x] [Abstrak](https://drive.google.com/open?id=1yg8J3NRlBJ3VHaH5vumx1PiELdQl84Uv)
-5. - [ ] [Daftar isi](#)
-6. - [ ] [Daftar Gambar](#)
-7. - [ ] [Daftar Tabel](#)
+5. - [x] [Daftar isi](https://drive.google.com/open?id=1FqbrnhM3lznTLRs2LFRyyi0RHcp0aMFH)
+6. - [x] [Daftar Gambar](https://drive.google.com/open?id=1S731EosF3U4vH0cbZHoKub81NwmuEDpx)
+7. - [x] [Daftar Tabel](https://drive.google.com/open?id=1tQtD-1j8EK58yreWZpZ273VsUeWHLOEs)
 8. - [ ] [Daftar Lampiran](#)
 9. Batang Tubuh Skripsi :
     - [x] [BAB I](https://drive.google.com/open?id=12usvWrShbKbCCmshU-8i6SiitqWsAEN9)
