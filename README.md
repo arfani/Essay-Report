@@ -12,7 +12,7 @@
 5. - [x] [Daftar isi](https://drive.google.com/open?id=1FqbrnhM3lznTLRs2LFRyyi0RHcp0aMFH)
 6. - [x] [Daftar Gambar](https://drive.google.com/open?id=1S731EosF3U4vH0cbZHoKub81NwmuEDpx)
 7. - [x] [Daftar Tabel](https://drive.google.com/open?id=1tQtD-1j8EK58yreWZpZ273VsUeWHLOEs)
-8. - [ ] [Daftar Lampiran](#)
+8. - [x] [Daftar Lampiran](https://drive.google.com/open?id=1Aa4lSkz9RDCkY4x50eTtflTkTUN5qXwJ)
 9. Batang Tubuh Skripsi :
     - [x] [BAB I](https://drive.google.com/open?id=12usvWrShbKbCCmshU-8i6SiitqWsAEN9)
     - [x] [BAB II](https://drive.google.com/open?id=1ChnvpM9M84Uiogh3IcCqaSGdW3MNOFK8)
@@ -20,4 +20,4 @@
     - [x] [BAB IV](https://drive.google.com/open?id=1t10MAmuICX-JrMUifMJuxg_nM11FxtE0)
     - [x] [BAB V](https://drive.google.com/open?id=1MNIZg2UMGSHSz0s8HnndX2n_yrzWGTwK)
 10. - [x] [Daftar Pustaka](https://drive.google.com/open?id=1wun75oozhIvENr21mYeLtEyf0NYDCSeo)
-11. - [ ] [Lampiran](#)
+11. - [X] [Lampiran](https://drive.google.com/open?id=1tiOEpmgOzEb3BZmuGfBEKy8MJ9VPHycj)
